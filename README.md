@@ -6,4 +6,4 @@
 
 ## Technologies Used
 Java <br>
-Static#
+Static
