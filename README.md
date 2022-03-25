@@ -2,8 +2,8 @@
 
 ## Description
 
-##Lessons Learned
+## Lessons Learned
 
 ## Technologies Used
 Java <br>
-Static# FoodTruckProject
+Static#
